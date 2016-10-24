@@ -47,7 +47,7 @@ Faculty
 | Tom | 3 | Marine Science |
 | Mike | 4 | Math |
 
-
+   
 Department
 ------------
 | Dept | Chair  |
